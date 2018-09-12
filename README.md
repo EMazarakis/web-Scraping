@@ -25,4 +25,4 @@ Fill in the Login Page of GitHub with username & password.
 - [x]  Fill in Sign In page
 - [x]  Press Sign Out button
 - [ ]  Extract data from a page
-- [ ]  Explore through the pages with links
+- [ ]  Explore the pages through links
