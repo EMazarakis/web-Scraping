@@ -22,7 +22,7 @@ Fill in the Login Page of GitHub with username & password.
 
 ## Task lists - Web Scraping
 
-- []  Sign In
-- []  Sign Out
-- []  Extract data from a page
-- []  Explore through the pages with links
+- [ ]  Sign In
+- [ ]  Sign Out
+- [ ]  Extract data from a page
+- [ ]  Explore through the pages with links
