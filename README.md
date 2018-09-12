@@ -10,3 +10,8 @@ Fill in the Login Page of GitHub with username & password.
 5. Then the program finds the **Sign Out** button from the drop-down-list at the upper-right corner.
 
 ### Set Up instructions
+
+1. Open a new Blank Workbook .xlsx file (Microsoft Excel Worksheet).
+2. Press **Alt + F11** to open Microsoft Visual Basic for Applications editor.
+3. Go to Project explorer panel, right-click on your project's name & choose Import File... .
+4. Load the .bas file
