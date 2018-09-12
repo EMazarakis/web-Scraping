@@ -15,7 +15,7 @@ Fill in the Login Page of GitHub with username & password.
 2. Press **Alt + F11** to open Microsoft Visual Basic for Applications editor.
 3. Go to Project explorer panel and do right click on your project's name, as you can see below.  
 ![importfile](https://user-images.githubusercontent.com/32977750/45417622-48081a00-b68b-11e8-80b9-3a63a57a57f2.png)  
-4. Load the *gitHub_webScrap.bas* file.  
+4. Load the **gitHub_webScrap.bas** file.  
 5. Put your **username** and **password** at myId, myPass variables respectively.  
 6. Then program is ready to run. 
 
