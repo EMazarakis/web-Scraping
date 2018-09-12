@@ -13,7 +13,8 @@ Fill in the Login Page of GitHub with username & password.
 
 1. Open a new Blank Workbook .xlsx file (Microsoft Excel Worksheet).
 2. Press **Alt + F11** to open Microsoft Visual Basic for Applications editor.
-3. Go to Project explorer panel, right-click on your project's name & choose Import File... . https://github.com/EMazarakis/web-Scraping/issues/1#issue-359403382
+3. Go to Project explorer panel, right-click on your project's name & choose Import File... . 
+ ![alt text](https://github.com/EMazarakis/web-Scraping/issues/1#issue-359403382)  
 4. Load the *gitHub_webScrap.bas* file.
 5. Put your **username** and **password** at myId, myPass variables respectively.  
 6. Then program is ready to run.
