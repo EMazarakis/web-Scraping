@@ -2,8 +2,8 @@ Attribute VB_Name = "gitHub_webScrap"
 Sub web_Scraping_fill_in_login_page()
 
     Dim myId, myPass As String
-    myId = "EMazarakis"
-    myPass = "me1990#"
+    myId = "your_uaername"
+    myPass = "your_pass"
 
 
     MsgBox ("Connecting to GitHub site....")
