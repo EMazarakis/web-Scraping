@@ -20,7 +20,7 @@ Fill in the Login Page of GitHub with username & password.
 6. Then program is ready to run. 
 
 
-## Task lists - Web Scraping
+## Web Scraping to-do list 
 
 - [x]  Fill in Sign In page
 - [x]  Press Sign Out button
