@@ -2,7 +2,7 @@ Attribute VB_Name = "gitHub_webScrap"
 Sub web_Scraping_fill_in_login_page()
 
     Dim myId, myPass As String
-    myId = "your_uaername"
+    myId = "your_username"
     myPass = "your_pass"
 
 
